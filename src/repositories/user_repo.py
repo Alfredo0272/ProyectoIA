@@ -1,5 +1,3 @@
-# src/repositories/user_repository.py
-
 from bson import ObjectId
 from db.mongo import get_db
 
